@@ -2,10 +2,10 @@
 Simple node js app to download files in a FTP directory 
 
 # Required 
-npm install express
-npm install http
-npm install ftp
-npm install fs
+- npm install express
+- npm install http
+- npm install ftp
+- npm install fs
 
 # Process
 
